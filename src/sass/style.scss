@@ -6,6 +6,16 @@
   max-width: 950px;
   margin: 0 auto;
 }
+
+.title {
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  color: #0d0d0d;
+  text-transform: uppercase;
+}
+
 @import "blocks/promo";
 @import "blocks/header";
 @import "blocks/buttons";
+@import "blocks/advantages";
